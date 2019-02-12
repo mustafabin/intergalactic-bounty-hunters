@@ -1,30 +1,30 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Homework Template
+# Intergalactic Bounty Hunters
 
-Use this template to structure your READMEs for diagnostics.
+You've been going to meetup events and networking. You've been telling everyone
+you're so excited to get a dev job that you'll take _any job_.
 
-Be sure to include a recent [`LICENSE`](LICENSE) and Markdown linter
-configuration ([`.remarkrc`](.remarkrc)).
+You run into a shadowy stranger, who asks you three times 'Really? Any job?' and
+you continue to agree enthusiastically. Things go dark, and you wake up in
+a strange place.
 
-## Prerequisites
+The shadowy stranger greets you and says 'Welcome to your new job! You are now
+our dev who will be building an intergalactic bounty hunter database for us!'
 
-* Topics with which developers should be familiar with.
-* Prerequisites are "just-in-time", so if I have a prerequisite that mentions
-  Sass, I would **not** need to include CSS as a prerequisite.
-* [Links to previous materials](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-  are often useful.
-* In a challenge, it is useful to link to reference material, such as talk
-  repositories.
+You look around, notice some high end coffee and tea machines, an air hockey
+table, nap rooms and floor to ceiling windows with a view of outer space. The
+shadowy stranger takes you to your desk which has a fancy sit-to stand
+adjustable hight desk with a swing bar, two big monitors, and Herman Miller
+chair. You say to yourself 'Not bad! Not bad at all!'
 
 ## Instructions
 
 1. Fork and clone this repository.
 1. Change into the new directory.
-1. Install dependencies.
 1. Fulfill the listed requirements.
 
-Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
+Starter code is available in [`lib/challenge.md`](lib/challenge.md). You are
 required to turn in your submission by making a pull request on the original
 repository.
 
@@ -33,22 +33,7 @@ the next morning by 9:00am.
 
 ## Requirements
 
-Describe behavioral requirements as you'll be using them in tests. That is,
-list requirements in language that describes how the written code will be used,
-not how it will be written, with the exception of constraints you may wish to
-place on implementation. It's a good idea to include the below paragraph
-verbatim.
-
-## Bonus
-
-Bonuses are described after the requirements, if included. They should be worked
-on **only after** passing requirements.
-
-Less experienced students should be able to complete the base requirements in
-the alloted time for labs and in around 2 hours for homework; more experienced
-students should be to complete the bonus.
-
-Sometimes, we ask questions that promote thinking critically about code.
+Work through the prompts in `challenge.md`, answering each in the markdown file.
 
 ## Plagiarism
 
