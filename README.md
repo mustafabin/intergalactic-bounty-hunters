@@ -24,16 +24,14 @@ chair. You say to yourself 'Not bad! Not bad at all!'
 1. Change into the new directory.
 1. Fulfill the listed requirements.
 
-Starter code is available in [`lib/challenge.md`](lib/challenge.md). You are
-required to turn in your submission by making a pull request on the original
-repository.
+Starter code is available in [`lib/`](lib/). You are required to turn in your
+submission by making a pull request on the original repository.
 
-Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
+Submissions are due by the time on your cohort calendar.
 
 ## Requirements
 
-Work through the prompts in `challenge.md`, answering each in the markdown file.
+Work through the prompts in `index.js`, answering each prompt.
 
 ## Plagiarism
 
